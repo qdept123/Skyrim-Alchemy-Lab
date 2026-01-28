@@ -1,0 +1,2246 @@
+[
+  {
+    "name": "Abecean Longfin",
+    "id": "00106e1b",
+    "effects": [
+      "Weakness to Frost",
+      "Fortify Sneak",
+      "Weakness to Poison",
+      "Fortify Restoration"
+    ],
+    "weight": 0.5,
+    "value": 15
+  },
+  {
+    "name": "Bear Claws",
+    "id": "0006bc02",
+    "effects": [
+      "Restore Stamina",
+      "Fortify Health",
+      "Fortify One-handed",
+      "Damage Magicka Regen"
+    ],
+    "weight": 0.1,
+    "value": 2
+  },
+  {
+    "name": "Bee",
+    "id": "000a9195",
+    "effects": [
+      "Restore Stamina",
+      "Ravage Stamina",
+      "Regenerate Stamina",
+      "Weakness to Shock"
+    ],
+    "weight": 0.1,
+    "value": 3
+  },
+  {
+    "name": "Beehive Husk",
+    "id": "000a9191",
+    "effects": [
+      "Resist Poison",
+      "Fortify Light Armor",
+      "Fortify Sneak",
+      "Fortify Destruction"
+    ],
+    "weight": 1.0,
+    "value": 5
+  },
+  {
+    "name": "Bleeding Crown",
+    "id": "0004da20",
+    "effects": [
+      "Weakness to Fire",
+      "Fortify Block",
+      "Weakness to Poison",
+      "Resist Magic"
+    ],
+    "weight": 0.3,
+    "value": 10
+  },
+  {
+    "name": "Blisterwort",
+    "id": "0004da25",
+    "effects": [
+      "Damage Stamina",
+      "Frenzy",
+      "Restore Health",
+      "Fortify Smithing"
+    ],
+    "weight": 0.2,
+    "value": 12
+  },
+  {
+    "name": "Blue Butterfly Wing",
+    "id": "000727de",
+    "effects": [
+      "Damage Stamina",
+      "Fortify Conjuration",
+      "Damage Magicka Regen",
+      "Fortify Enchanting"
+    ],
+    "weight": 0.1,
+    "value": 2
+  },
+  {
+    "name": "Blue Dartwing",
+    "id": "000e4f0c",
+    "effects": [
+      "Resist Shock",
+      "Fortify Pickpocket",
+      "Restore Health",
+      "Fear"
+    ],
+    "weight": 0.1,
+    "value": 1
+  },
+  {
+    "name": "Blue Mountain Flower",
+    "id": "00077e1c",
+    "effects": [
+      "Restore Health",
+      "Fortify Conjuration",
+      "Fortify Health",
+      "Damage Magicka Regen"
+    ],
+    "weight": 0.1,
+    "value": 2
+  },
+  {
+    "name": "Bone Meal",
+    "id": "00034cdd",
+    "effects": [
+      "Damage Stamina",
+      "Resist Fire",
+      "Fortify Conjuration",
+      "Ravage Stamina"
+    ],
+    "weight": 0.5,
+    "value": 5
+  },
+  {
+    "name": "Briar Heart",
+    "id": "0003ad61",
+    "effects": [
+      "Restore Magicka",
+      "Fortify Block",
+      "Paralysis",
+      "Fortify Magicka"
+    ],
+    "weight": 0.5,
+    "value": 20
+  },
+  {
+    "name": "Butterfly Wing",
+    "id": "000727e0",
+    "effects": [
+      "Restore Health",
+      "Fortify Barter",
+      "Lingering Damage Stamina",
+      "Damage Magicka"
+    ],
+    "weight": 0.1,
+    "value": 3
+  },
+  {
+    "name": "Canis Root",
+    "id": "0006abcb",
+    "effects": [
+      "Damage Stamina",
+      "Fortify One-handed",
+      "Fortify Marksman",
+      "Paralysis"
+    ],
+    "weight": 0.1,
+    "value": 5
+  },
+  {
+    "name": "Charred Skeever Hide",
+    "id": "00052695",
+    "effects": [
+      "Restore Stamina",
+      "Cure Disease",
+      "Resist Poison",
+      "Restore Health"
+    ],
+    "weight": 0.5,
+    "value": 1
+  },
+  {
+    "name": "Chaurus Eggs",
+    "id": "0003ad56",
+    "effects": [
+      "Weakness to Poison",
+      "Fortify Stamina",
+      "Damage Magicka",
+      "Invisibility"
+    ],
+    "weight": 0.2,
+    "value": 10
+  },
+  {
+    "name": "Chicken's Egg",
+    "id": "00023d77",
+    "effects": [
+      "Resist Magic",
+      "Damage Magicka Regen",
+      "Waterbreathing",
+      "Lingering Damage Stamina"
+    ],
+    "weight": 0.5,
+    "value": 2
+  },
+  {
+    "name": "Creep Cluster",
+    "id": "000b2183",
+    "effects": [
+      "Restore Magicka",
+      "Damage Stamina Regen",
+      "Fortify Carry Weight",
+      "Weakness to Magic"
+    ],
+    "weight": 0.2,
+    "value": 1
+  },
+  {
+    "name": "Crimson Nirnroot",
+    "id": "000b701a",
+    "effects": [
+      "Damage Health",
+      "Damage Stamina",
+      "Invisibility",
+      "Resist Magic"
+    ],
+    "weight": 0.2,
+    "value": 10
+  },
+  {
+    "name": "Cyrodilic Spadetail",
+    "id": "00106e19",
+    "effects": [
+      "Damage Stamina",
+      "Fortify Restoration",
+      "Fear",
+      "Ravage Health"
+    ],
+    "weight": 0.25,
+    "value": 15
+  },
+  {
+    "name": "Daedra Heart",
+    "id": "0003ad5b",
+    "effects": [
+      "Restore Health",
+      "Damage Stamina Regen",
+      "Damage Magicka",
+      "Fear"
+    ],
+    "weight": 0.5,
+    "value": 250
+  },
+  {
+    "name": "Deathbell",
+    "id": "000516c8",
+    "effects": [
+      "Damage Health",
+      "Ravage Stamina",
+      "Slow",
+      "Weakness to Poison"
+    ],
+    "weight": 0.1,
+    "value": 4
+  },
+  {
+    "name": "Dragon's Tongue",
+    "id": "000889a2",
+    "effects": [
+      "Resist Fire",
+      "Fortify Barter",
+      "Fortify Illusion",
+      "Fortify Two-handed"
+    ],
+    "weight": 0.1,
+    "value": 5
+  },
+  {
+    "name": "Dwarven Oil",
+    "id": "000f11c0",
+    "effects": [
+      "Weakness to Magic",
+      "Fortify Illusion",
+      "Regenerate Magicka",
+      "Restore Magicka"
+    ],
+    "weight": 0.25,
+    "value": 15
+  },
+  {
+    "name": "Ectoplasm",
+    "id": "0003ad63",
+    "effects": [
+      "Restore Magicka",
+      "Fortify Destruction",
+      "Fortify Magicka",
+      "Damage Health"
+    ],
+    "weight": 0.1,
+    "value": 25
+  },
+  {
+    "name": "Elves Ear",
+    "id": "00034d31",
+    "effects": [
+      "Restore Magicka",
+      "Fortify Marksman",
+      "Weakness to Frost",
+      "Resist Fire"
+    ],
+    "weight": 0.1,
+    "value": 10
+  },
+  {
+    "name": "Eye of Sabre Cat",
+    "id": "0006bc07",
+    "effects": [
+      "Restore Stamina",
+      "Ravage Health",
+      "Damage Magicka",
+      "Restore Health"
+    ],
+    "weight": 0.1,
+    "value": 2
+  },
+  {
+    "name": "Falmer Ear",
+    "id": "0003ad5d",
+    "effects": [
+      "Damage Health",
+      "Frenzy",
+      "Resist Poison",
+      "Fortify Lockpicking"
+    ],
+    "weight": 0.2,
+    "value": 10
+  },
+  {
+    "name": "Fire Salts",
+    "id": "0003ad5e",
+    "effects": [
+      "Weakness to Frost",
+      "Resist Fire",
+      "Restore Magicka",
+      "Regenerate Magicka"
+    ],
+    "weight": 0.25,
+    "value": 50
+  },
+  {
+    "name": "Fly Amanita",
+    "id": "0004da00",
+    "effects": [
+      "Resist Fire",
+      "Fortify Two-handed",
+      "Frenzy",
+      "Regenerate Stamina"
+    ],
+    "weight": 0.1,
+    "value": 2
+  },
+  {
+    "name": "Frost Mirriam",
+    "id": "00034d32",
+    "effects": [
+      "Resist Frost",
+      "Fortify Sneak",
+      "Ravage Magicka",
+      "Damage Stamina Regen"
+    ],
+    "weight": 0.1,
+    "value": 1
+  },
+  {
+    "name": "Frost Salts",
+    "id": "0003ad5f",
+    "effects": [
+      "Weakness to Fire",
+      "Resist Frost",
+      "Restore Magicka",
+      "Fortify Conjuration"
+    ],
+    "weight": 0.25,
+    "value": 100
+  },
+  {
+    "name": "Garlic",
+    "id": "00034d22",
+    "effects": [
+      "Resist Poison",
+      "Fortify Stamina",
+      "Regenerate Magicka",
+      "Regenerate Health"
+    ],
+    "weight": 0.25,
+    "value": 1
+  },
+  {
+    "name": "Giant Lichen",
+    "id": "0007e8c1",
+    "effects": [
+      "Weakness to Shock",
+      "Ravage Health",
+      "Weakness to Poison",
+      "Restore Magicka"
+    ],
+    "weight": 0.25,
+    "value": 5
+  },
+  {
+    "name": "Giant's Toe",
+    "id": "0003ad64",
+    "effects": [
+      "Damage Stamina",
+      "Fortify Health",
+      "Fortify Carry Weight",
+      "Damage Stamina Regen"
+    ],
+    "weight": 1.0,
+    "value": 20
+  },
+  {
+    "name": "Glow Dust",
+    "id": "0003ad73",
+    "effects": [
+      "Damage Magicka",
+      "Damage Magicka Regen",
+      "Fortify Destruction",
+      "Resist Shock"
+    ],
+    "weight": 0.5,
+    "value": 20
+  },
+  {
+    "name": "Glowing Mushroom",
+    "id": "0007ee01",
+    "effects": [
+      "Resist Shock",
+      "Fortify Destruction",
+      "Fortify Smithing",
+      "Fortify Health"
+    ],
+    "weight": 0.2,
+    "value": 5
+  },
+  {
+    "name": "Grass Pod",
+    "id": "00083e64",
+    "effects": [
+      "Resist Poison",
+      "Ravage Magicka",
+      "Fortify Alteration",
+      "Restore Magicka"
+    ],
+    "weight": 0.1,
+    "value": 1
+  },
+  {
+    "name": "Hagraven Claw",
+    "id": "0006b689",
+    "effects": [
+      "Resist Magic",
+      "Lingering Damage Magicka",
+      "Fortify Enchanting",
+      "Fortify Barter"
+    ],
+    "weight": 0.25,
+    "value": 20
+  },
+  {
+    "name": "Hagraven Feathers",
+    "id": "0003ad66",
+    "effects": [
+      "Damage Magicka",
+      "Fortify Conjuration",
+      "Frenzy",
+      "Weakness to Shock"
+    ],
+    "weight": 0.1,
+    "value": 20
+  },
+  {
+    "name": "Hanging Moss",
+    "id": "00057f91",
+    "effects": [
+      "Damage Magicka",
+      "Fortify Health",
+      "Damage Magicka Regen",
+      "Fortify One-handed"
+    ],
+    "weight": 0.25,
+    "value": 1
+  },
+  {
+    "name": "Hawk Beak",
+    "id": "000e7ebc",
+    "effects": [
+      "Restore Stamina",
+      "Resist Frost",
+      "Fortify Carry Weight",
+      "Resist Shock"
+    ],
+    "weight": 0.25,
+    "value": 15
+  },
+  {
+    "name": "Hawk Feathers",
+    "id": "000e7ed0",
+    "effects": [
+      "Cure Disease",
+      "Fortify Light Armor",
+      "Fortify One-handed",
+      "Fortify Sneak"
+    ],
+    "weight": 0.1,
+    "value": 15
+  },
+  {
+    "name": "Histcarp",
+    "id": "00106e18",
+    "effects": [
+      "Restore Stamina",
+      "Fortify Magicka",
+      "Damage Stamina Regen",
+      "Waterbreathing"
+    ],
+    "weight": 0.25,
+    "value": 6
+  },
+  {
+    "name": "Honeycomb",
+    "id": "000b08c5",
+    "effects": [
+      "Restore Stamina",
+      "Fortify Block",
+      "Fortify Light Armor",
+      "Ravage Stamina"
+    ],
+    "weight": 1.0,
+    "value": 5
+  },
+  {
+    "name": "Human Flesh",
+    "id": "001016b3",
+    "effects": [
+      "Damage Health",
+      "Paralysis",
+      "Restore Magicka",
+      "Fortify Sneak"
+    ],
+    "weight": 0.25,
+    "value": 1
+  },
+  {
+    "name": "Human Heart",
+    "id": "000b18cd",
+    "effects": [
+      "Damage Health",
+      "Damage Magicka",
+      "Damage Magicka Regen",
+      "Frenzy"
+    ],
+    "weight": 1.0,
+    "value": 0
+  },
+  {
+    "name": "Ice Wraith Teeth",
+    "id": "0003ad6a",
+    "effects": [
+      "Weakness to Frost",
+      "Fortify Heavy Armor",
+      "Invisibility",
+      "Weakness to Fire"
+    ],
+    "weight": 0.25,
+    "value": 30
+  },
+  {
+    "name": "Imp Stool",
+    "id": "0004da23",
+    "effects": [
+      "Damage Health",
+      "Lingering Damage Health",
+      "Paralysis",
+      "Restore Health"
+    ],
+    "weight": 0.3,
+    "value": 0
+  },
+  {
+    "name": "Jazbay Grapes",
+    "id": "0006ac4a",
+    "effects": [
+      "Weakness to Magic",
+      "Fortify Magicka",
+      "Regenerate Magicka",
+      "Ravage Health"
+    ],
+    "weight": 0.2,
+    "value": 1
+  },
+  {
+    "name": "Juniper Berries",
+    "id": "0005076e",
+    "effects": [
+      "Weakness to Fire",
+      "Fortify Marksman",
+      "Regenerate Health",
+      "Damage Stamina Regen"
+    ],
+    "weight": 0.1,
+    "value": 1
+  },
+  {
+    "name": "Large Antlers",
+    "id": "0006bc0a",
+    "effects": [
+      "Restore Stamina",
+      "Fortify Stamina",
+      "Slow",
+      "Damage Stamina Regen"
+    ],
+    "weight": 0.1,
+    "value": 2
+  },
+  {
+    "name": "Lavender",
+    "id": "00045c28",
+    "effects": [
+      "Resist Magic",
+      "Fortify Stamina",
+      "Ravage Magicka",
+      "Fortify Conjuration"
+    ],
+    "weight": 0.1,
+    "value": 1
+  },
+  {
+    "name": "Luna Moth Wing",
+    "id": "000727df",
+    "effects": [
+      "Damage Magicka",
+      "Fortify Light Armor",
+      "Regenerate Health",
+      "Invisibility"
+    ],
+    "weight": 0.1,
+    "value": 5
+  },
+  {
+    "name": "Moon Sugar",
+    "id": "000d8e3f",
+    "effects": [
+      "Weakness to Fire",
+      "Resist Frost",
+      "Restore Magicka",
+      "Regenerate Magicka"
+    ],
+    "weight": 0.25,
+    "value": 50
+  },
+  {
+    "name": "Mora Tapinella",
+    "id": "000ec870",
+    "effects": [
+      "Restore Magicka",
+      "Lingering Damage Health",
+      "Regenerate Stamina",
+      "Fortify Illusion"
+    ],
+    "weight": 0.25,
+    "value": 4
+  },
+  {
+    "name": "Mudcrab Chitin",
+    "id": "0006bc00",
+    "effects": [
+      "Restore Stamina",
+      "Cure Disease",
+      "Resist Poison",
+      "Resist Fire"
+    ],
+    "weight": 0.25,
+    "value": 2
+  },
+  {
+    "name": "Namira's Rot",
+    "id": "0004da24",
+    "effects": [
+      "Damage Magicka",
+      "Fortify Lockpicking",
+      "Fear",
+      "Regenerate Health"
+    ],
+    "weight": 0.25,
+    "value": 0
+  },
+  {
+    "name": "Nightshade",
+    "id": "0002f44c",
+    "effects": [
+      "Damage Health",
+      "Damage Magicka Regen",
+      "Lingering Damage Stamina",
+      "Fortify Destruction"
+    ],
+    "weight": 0.1,
+    "value": 8
+  },
+  {
+    "name": "Nirnroot",
+    "id": "00059b86",
+    "effects": [
+      "Damage Health",
+      "Damage Stamina",
+      "Invisibility",
+      "Resist Magic"
+    ],
+    "weight": 0.2,
+    "value": 10
+  },
+  {
+    "name": "Nordic Barnacle",
+    "id": "0007edf5",
+    "effects": [
+      "Damage Magicka",
+      "Waterbreathing",
+      "Regenerate Health",
+      "Fortify Pickpocket"
+    ],
+    "weight": 0.2,
+    "value": 5
+  },
+  {
+    "name": "Orange Dartwing",
+    "id": "000bb956",
+    "effects": [
+      "Restore Stamina",
+      "Ravage Magicka",
+      "Fortify Pickpocket",
+      "Lingering Damage Health"
+    ],
+    "weight": 0.1,
+    "value": 1
+  },
+  {
+    "name": "Pearl",
+    "id": "000854fe",
+    "effects": [
+      "Restore Stamina",
+      "Fortify Block",
+      "Restore Magicka",
+      "Resist Shock"
+    ],
+    "weight": 0.1,
+    "value": 2
+  },
+  {
+    "name": "Pine Thrush Egg",
+    "id": "00023d6f",
+    "effects": [
+      "Restore Stamina",
+      "Fortify Lockpicking",
+      "Weakness to Poison",
+      "Resist Shock"
+    ],
+    "weight": 0.5,
+    "value": 2
+  },
+  {
+    "name": "Powdered Mammoth Tusk",
+    "id": "0006bc10",
+    "effects": [
+      "Restore Stamina",
+      "Fortify Sneak",
+      "Weakness to Fire",
+      "Fear"
+    ],
+    "weight": 0.1,
+    "value": 2
+  },
+  {
+    "name": "Purple Mountain Flower",
+    "id": "00077e1e",
+    "effects": [
+      "Restore Stamina",
+      "Fortify Sneak",
+      "Lingering Damage Magicka",
+      "Resist Frost"
+    ],
+    "weight": 0.1,
+    "value": 2
+  },
+  {
+    "name": "Red Mountain Flower",
+    "id": "00077e1d",
+    "effects": [
+      "Restore Magicka",
+      "Ravage Magicka",
+      "Fortify Magicka",
+      "Damage Health"
+    ],
+    "weight": 0.1,
+    "value": 2
+  },
+  {
+    "name": "River Betty",
+    "id": "00106e1a",
+    "effects": [
+      "Damage Health",
+      "Fortify Alteration",
+      "Slow",
+      "Fortify Carry Weight"
+    ],
+    "weight": 0.25,
+    "value": 15
+  },
+  {
+    "name": "Rock Warbler Egg",
+    "id": "0007e8c8",
+    "effects": [
+      "Restore Health",
+      "Fortify One-handed",
+      "Damage Stamina",
+      "Weakness to Magic"
+    ],
+    "weight": 0.5,
+    "value": 2
+  },
+  {
+    "name": "Sabre Cat Tooth",
+    "id": "0006bc04",
+    "effects": [
+      "Restore Stamina",
+      "Fortify Heavy Armor",
+      "Fortify Smithing",
+      "Weakness to Poison"
+    ],
+    "weight": 0.1,
+    "value": 2
+  },
+  {
+    "name": "Salt Pile",
+    "id": "00034cdf",
+    "effects": [
+      "Weakness to Magic",
+      "Fortify Restoration",
+      "Slow",
+      "Regenerate Magicka"
+    ],
+    "weight": 0.2,
+    "value": 2
+  },
+  {
+    "name": "Scaly Pholiota",
+    "id": "0006f950",
+    "effects": [
+      "Weakness to Magic",
+      "Fortify Illusion",
+      "Regenerate Stamina",
+      "Fortify Carry Weight"
+    ],
+    "weight": 0.25,
+    "value": 4
+  },
+  {
+    "name": "Silverside Perch",
+    "id": "00106e1c",
+    "effects": [
+      "Restore Stamina",
+      "Damage Stamina Regen",
+      "Ravage Health",
+      "Resist Frost"
+    ],
+    "weight": 0.25,
+    "value": 15
+  },
+  {
+    "name": "Skeever Tail",
+    "id": "0003ad6f",
+    "effects": [
+      "Damage Stamina Regen",
+      "Ravage Health",
+      "Damage Health",
+      "Fortify Light Armor"
+    ],
+    "weight": 0.2,
+    "value": 3
+  },
+  {
+    "name": "Slaughterfish Egg",
+    "id": "0007e8c5",
+    "effects": [
+      "Resist Poison",
+      "Fortify Pickpocket",
+      "Lingering Damage Health",
+      "Fortify Stamina"
+    ],
+    "weight": 0.2,
+    "value": 3
+  },
+  {
+    "name": "Slaughterfish Scales",
+    "id": "0003ad70",
+    "effects": [
+      "Resist Frost",
+      "Lingering Damage Health",
+      "Fortify Heavy Armor",
+      "Fortify Block"
+    ],
+    "weight": 0.1,
+    "value": 3
+  },
+  {
+    "name": "Small Antlers",
+    "id": "0006bc0b",
+    "effects": [
+      "Weakness to Poison",
+      "Fortify Restoration",
+      "Lingering Damage Stamina",
+      "Damage Health"
+    ],
+    "weight": 0.1,
+    "value": 2
+  },
+  {
+    "name": "Small Pearl",
+    "id": "00085500",
+    "effects": [
+      "Restore Stamina",
+      "Fortify One-handed",
+      "Fortify Restoration",
+      "Resist Frost"
+    ],
+    "weight": 0.1,
+    "value": 2
+  },
+  {
+    "name": "Snowberries",
+    "id": "0001b3bd",
+    "effects": [
+      "Resist Fire",
+      "Fortify Enchanting",
+      "Resist Frost",
+      "Resist Shock"
+    ],
+    "weight": 0.1,
+    "value": 4
+  },
+  {
+    "name": "Spider Egg",
+    "id": "0009151b",
+    "effects": [
+      "Damage Stamina",
+      "Damage Magicka Regen",
+      "Fortify Lockpicking",
+      "Fortify Marksman"
+    ],
+    "weight": 0.2,
+    "value": 5
+  },
+  {
+    "name": "Spriggan Sap",
+    "id": "00063b5f",
+    "effects": [
+      "Damage Magicka Regen",
+      "Fortify Enchanting",
+      "Fortify Smithing",
+      "Fortify Alteration"
+    ],
+    "weight": 0.2,
+    "value": 15
+  },
+  {
+    "name": "Swamp Fungal Pod",
+    "id": "0007e8b7",
+    "effects": [
+      "Resist Shock",
+      "Lingering Damage Magicka",
+      "Paralysis",
+      "Restore Health"
+    ],
+    "weight": 0.25,
+    "value": 5
+  },
+  {
+    "name": "Taproot",
+    "id": "0003ad71",
+    "effects": [
+      "Weakness to Magic",
+      "Fortify Illusion",
+      "Regenerate Magicka",
+      "Restore Magicka"
+    ],
+    "weight": 0.5,
+    "value": 15
+  },
+  {
+    "name": "Thistle Branch",
+    "id": "000134aa",
+    "effects": [
+      "Resist Frost",
+      "Ravage Stamina",
+      "Resist Poison",
+      "Fortify Heavy Armor"
+    ],
+    "weight": 0.1,
+    "value": 1
+  },
+  {
+    "name": "Torchbug Thorax",
+    "id": "0004da73",
+    "effects": [
+      "Restore Stamina",
+      "Lingering Damage Magicka",
+      "Weakness to Magic",
+      "Fortify Stamina"
+    ],
+    "weight": 0.1,
+    "value": 1
+  },
+  {
+    "name": "Troll Fat",
+    "id": "0003ad72",
+    "effects": [
+      "Resist Poison",
+      "Fortify Two-handed",
+      "Frenzy",
+      "Damage Health"
+    ],
+    "weight": 1.0,
+    "value": 15
+  },
+  {
+    "name": "Tundra Cotton",
+    "id": "0003f7f8",
+    "effects": [
+      "Resist Magic",
+      "Fortify Magicka",
+      "Fortify Block",
+      "Fortify Barter"
+    ],
+    "weight": 0.1,
+    "value": 1
+  },
+  {
+    "name": "Vampire Dust",
+    "id": "0003ad76",
+    "effects": [
+      "Invisibility",
+      "Restore Magicka",
+      "Regenerate Health",
+      "Cure Disease"
+    ],
+    "weight": 0.2,
+    "value": 25
+  },
+  {
+    "name": "Void Salts",
+    "id": "0003ad60",
+    "effects": [
+      "Weakness to Shock",
+      "Resist Magic",
+      "Damage Health",
+      "Fortify Magicka"
+    ],
+    "weight": 0.2,
+    "value": 125
+  },
+  {
+    "name": "Wheat",
+    "id": "0004b0ba",
+    "effects": [
+      "Restore Health",
+      "Fortify Health",
+      "Damage Stamina Regen",
+      "Lingering Damage Magicka"
+    ],
+    "weight": 0.1,
+    "value": 5
+  },
+  {
+    "name": "White Cap",
+    "id": "0004da22",
+    "effects": [
+      "Weakness to Frost",
+      "Fortify Heavy Armor",
+      "Restore Magicka",
+      "Ravage Magicka"
+    ],
+    "weight": 0.3,
+    "value": 0
+  },
+  {
+    "name": "Wisp Wrappings",
+    "id": "0006bc0e",
+    "effects": [
+      "Restore Stamina",
+      "Fortify Destruction",
+      "Fortify Carry Weight",
+      "Resist Magic"
+    ],
+    "weight": 0.1,
+    "value": 2
+  },
+  {
+    "name": "Alocasia Fruit",
+    "id": "FExxxD62",
+    "effects": [
+      "Regenerate Stamina",
+      "Ravage Magicka",
+      "Regenerate Health",
+      "Light"
+    ],
+    "weight": 0.25,
+    "value": 22
+  },
+  {
+    "name": "Ambrosia",
+    "id": "FExxx836",
+    "effects": [
+      "Restore Health",
+      "Regenerate Health",
+      "Fortify Health",
+      "Cure Poison"
+    ],
+    "weight": 0.1,
+    "value": 15
+  },
+  {
+    "name": "Angelfish",
+    "id": "xx0008EB",
+    "effects": [
+      "Regenerate Health",
+      "Resist Fire",
+      "Fortify Marksman",
+      "Waterbreathing"
+    ],
+    "weight": 0.25,
+    "value": 30
+  },
+  {
+    "name": "Angler Larvae",
+    "id": "xx0008F0",
+    "effects": [
+      "Lingering Damage Health",
+      "Regenerate Stamina",
+      "Waterbreathing",
+      "Fortify Two-handed"
+    ],
+    "weight": 0.25,
+    "value": 1
+  },
+  {
+    "name": "Aster Bloom Core",
+    "id": "FExxxD66",
+    "effects": [
+      "Resist Magic",
+      "Fortify Light Armor",
+      "Fortify Block",
+      "Paralysis"
+    ],
+    "weight": 0.1,
+    "value": 40
+  },
+  {
+    "name": "Bittergreen Petals",
+    "id": "FExxxD68",
+    "effects": [
+      "Lingering Damage Stamina",
+      "Invisibility",
+      "Cure Poison",
+      "Damage Magicka"
+    ],
+    "weight": 0.1,
+    "value": 25
+  },
+  {
+    "name": "Blind Watcher's Eye",
+    "id": "FExxx822",
+    "effects": [
+      "Light",
+      "Fortify Magicka",
+      "Fortify Alteration",
+      "Spell Absorption"
+    ],
+    "weight": 0.2,
+    "value": 9
+  },
+  {
+    "name": "Bliss Bug Thorax",
+    "id": "xx059155",
+    "effects": [
+      "Weakness to Fire",
+      "Resist Fire",
+      "Fortify Heavy Armor",
+      "Fortify Illusion"
+    ],
+    "weight": 0.1,
+    "value": 1
+  },
+  {
+    "name": "Blister Pod Cap",
+    "id": "FExxxD6A",
+    "effects": [
+      "Restore Magicka",
+      "Fortify Magicka",
+      "Night Eye",
+      "Invisibility"
+    ],
+    "weight": 0.1,
+    "value": 25
+  },
+  {
+    "name": "Bloodgrass",
+    "id": "xx024C13",
+    "effects": [
+      "Invisibility",
+      "Resist Poison",
+      "Slow",
+      "Fortify Health"
+    ],
+    "weight": 0.1,
+    "value": 25
+  },
+  {
+    "name": "Bog Beacon",
+    "id": "FExxxD6C",
+    "effects": [
+      "Restore Magicka",
+      "Fortify Heavy Armor",
+      "Fear",
+      "Damage Stamina"
+    ],
+    "weight": 0.1,
+    "value": 20
+  },
+  {
+    "name": "Bungler's Bane",
+    "id": "FExxx802",
+    "effects": [
+      "Slow",
+      "Ravage Stamina",
+      "Damage Stamina Regen",
+      "Resist Magic"
+    ],
+    "weight": 0.5,
+    "value": 50
+  },
+  {
+    "name": "Chokeberry",
+    "id": "FExxx838",
+    "effects": [
+      "Damage Health",
+      "Ravage Health",
+      "Lingering Damage Health",
+      "Weakness to Poison"
+    ],
+    "weight": 0.1,
+    "value": 15
+  },
+  {
+    "name": "Chokeweed",
+    "id": "FExxx804",
+    "effects": [
+      "Weakness to Frost",
+      "Restore Stamina",
+      "Cure Disease",
+      "Damage Magicka"
+    ],
+    "weight": 0.1,
+    "value": 7
+  },
+  {
+    "name": "Coda Flower",
+    "id": "FExxx805",
+    "effects": [
+      "Damage Health",
+      "Lingering Damage Stamina",
+      "Ravage Magicka",
+      "Fortify Carry Weight"
+    ],
+    "weight": 0.1,
+    "value": 30
+  },
+  {
+    "name": "Comberry",
+    "id": "FExxx806",
+    "effects": [
+      "Damage Stamina",
+      "Spell Absorption",
+      "Restore Magicka",
+      "Fortify Destruction"
+    ],
+    "weight": 0.1,
+    "value": 12
+  },
+  {
+    "name": "Congealed Putrescence",
+    "id": "FExxx807",
+    "effects": [
+      "Ravage Health",
+      "Restore Magicka",
+      "Weakness to Fire",
+      "Fortify Conjuration"
+    ],
+    "weight": 0.1,
+    "value": 9
+  },
+  {
+    "name": "Corkbulb Root",
+    "id": "FExxx809",
+    "effects": [
+      "Paralysis",
+      "Restore Health",
+      "Resist Shock",
+      "Fortify Marksman"
+    ],
+    "weight": 0.1,
+    "value": 30
+  },
+  {
+    "name": "Daedra Silk",
+    "id": "FExxx80A",
+    "effects": [
+      "Lingering Damage Stamina",
+      "Paralysis",
+      "Night Eye",
+      "Invisibility"
+    ],
+    "weight": 0.5,
+    "value": 50
+  },
+  {
+    "name": "Daedra Venin",
+    "id": "FExxx80B",
+    "effects": [
+      "Ravage Health",
+      "Paralysis",
+      "Fortify Destruction",
+      "Spell Absorption"
+    ],
+    "weight": 0.2,
+    "value": 50
+  },
+  {
+    "name": "Daedroth Teeth",
+    "id": "FExxx826",
+    "effects": [
+      "Resist Frost",
+      "Light",
+      "Damage Magicka Regen",
+      "Regenerate Stamina"
+    ],
+    "weight": 0.5,
+    "value": 50
+  },
+  {
+    "name": "Dreugh Wax",
+    "id": "FExxx827",
+    "effects": [
+      "Weakness to Magic",
+      "Frenzy",
+      "Fortify Enchanting",
+      "Fortify Smithing"
+    ],
+    "weight": 1,
+    "value": 25
+  },
+  {
+    "name": "Elytra Ichor",
+    "id": "FExxx828",
+    "effects": [
+      "Restore Magicka",
+      "Invisibility",
+      "Slow",
+      "Fear"
+    ],
+    "weight": 0.1,
+    "value": 30
+  },
+  {
+    "name": "Fire Petal",
+    "id": "FExxx829",
+    "effects": [
+      "Damage Health",
+      "Resist Fire",
+      "Spell Absorption",
+      "Paralysis"
+    ],
+    "weight": 0.1,
+    "value": 30
+  },
+  {
+    "name": "Flame Stalk",
+    "id": "xx095E23",
+    "effects": [
+      "Restore Health",
+      "Resist Frost",
+      "Weakness to Fire",
+      "Invisibility"
+    ],
+    "weight": 0.1,
+    "value": 25
+  },
+  {
+    "name": "Fungus Stalk",
+    "id": "FExxx82B",
+    "effects": [
+      "Restore Magicka",
+      "Fortify Health",
+      "Fortify Stamina",
+      "Waterbreathing"
+    ],
+    "weight": 0.1,
+    "value": 30
+  },
+  {
+    "name": "Glassfish",
+    "id": "xx0008EE",
+    "effects": [
+      "Restore Magicka",
+      "Invisibility",
+      "Fortify Illusion",
+      "Fortify Persuasion"
+    ],
+    "weight": 0.25,
+    "value": 1
+  },
+  {
+    "name": "Gnarl Bark",
+    "id": "FExxx82C",
+    "effects": [
+      "Damage Health",
+      "Regenerate Health",
+      "Fortify Heavy Armor",
+      "Resist Fire"
+    ],
+    "weight": 0.1,
+    "value": 15
+  },
+  {
+    "name": "Gold Kanet",
+    "id": "FExxx82D",
+    "effects": [
+      "Paralysis",
+      "Ravage Health",
+      "Weakness to Frost",
+      "Fortify Smithing"
+    ],
+    "weight": 0.1,
+    "value": 30
+  },
+  {
+    "name": "Goldfish",
+    "id": "xx0008EF",
+    "effects": [
+      "Restore Stamina",
+      "Fortify Heavy Armor",
+      "Waterbreathing",
+      "Resist Frost"
+    ],
+    "weight": 0.25,
+    "value": 10
+  },
+  {
+    "name": "Green Butterfly Wing",
+    "id": "xx059151",
+    "effects": [
+      "Restore Magicka",
+      "Fear",
+      "Slow",
+      "Invisibility"
+    ],
+    "weight": 0.1,
+    "value": 25
+  },
+  {
+    "name": "Hackle-Lo Leaf",
+    "id": "FExxx82E",
+    "effects": [
+      "Restore Stamina",
+      "Paralysis",
+      "Waterbreathing",
+      "Fortify Restoration"
+    ],
+    "weight": 0.1,
+    "value": 30
+  },
+  {
+    "name": "Harrada",
+    "id": "xx024C11",
+    "effects": [
+      "Damage Health",
+      "Damage Magicka",
+      "Paralysis",
+      "Damage Magicka Regen"
+    ],
+    "weight": 0.1,
+    "value": 25
+  },
+  {
+    "name": "Heart of Order",
+    "id": "FExxx851",
+    "effects": [
+      "Restore Health",
+      "Fortify Health",
+      "Fortify One-handed",
+      "Fortify Two-handed"
+    ],
+    "weight": 0.1,
+    "value": 40
+  },
+  {
+    "name": "Hunger Tongue",
+    "id": "FExxx80C",
+    "effects": [
+      "Weakness to Fire",
+      "Cure Disease",
+      "Cure Poison",
+      "Fortify Magicka"
+    ],
+    "weight": 0.1,
+    "value": 10
+  },
+  {
+    "name": "Hydnum Azure Giant Spore",
+    "id": "FExxx80D",
+    "effects": [
+      "Resist Frost",
+      "Fortify Health",
+      "Regenerate Health",
+      "Light"
+    ],
+    "weight": 0.5,
+    "value": 30
+  },
+  {
+    "name": "Hypha Facia",
+    "id": "FExxx80E",
+    "effects": [
+      "Weakness to Poison",
+      "Frenzy",
+      "Ravage Stamina",
+      "Resist Magic"
+    ],
+    "weight": 0.1,
+    "value": 23
+  },
+  {
+    "name": "Imp Gall",
+    "id": "FExxx80F",
+    "effects": [
+      "Damage Health",
+      "Weakness to Fire",
+      "Fortify Barter",
+      "Cure Poison"
+    ],
+    "weight": 0.2,
+    "value": 15
+  },
+  {
+    "name": "Ironwood Fruit",
+    "id": "FExxxF0F",
+    "effects": [
+      "Restore Health",
+      "Resist Fire",
+      "Damage Stamina",
+      "Restore Magicka"
+    ],
+    "weight": 0.1,
+    "value": 5
+  },
+  {
+    "name": "Juvenile Mudcrab",
+    "id": "xx0008F2",
+    "effects": [
+      "Regenerate Stamina",
+      "Fortify Carry Weight",
+      "Cure Disease",
+      "Fortify Two-handed"
+    ],
+    "weight": 0.25,
+    "value": 10
+  },
+  {
+    "name": "Kagouti Hide",
+    "id": "FExxx810",
+    "effects": [
+      "Lingering Damage Stamina",
+      "Night Eye",
+      "Fortify Carry Weight",
+      "Resist Shock"
+    ],
+    "weight": 1,
+    "value": 20
+  },
+  {
+    "name": "Kresh Fiber",
+    "id": "FExxx811",
+    "effects": [
+      "Weakness to Magic",
+      "Slow",
+      "Fortify Sneak",
+      "Fortify Pickpocket"
+    ],
+    "weight": 0.1,
+    "value": 30
+  },
+  {
+    "name": "Lichor",
+    "id": "FExxx837",
+    "effects": [
+      "Restore Magicka",
+      "Regenerate Magicka",
+      "Fortify Magicka",
+      "Spell Absorption"
+    ],
+    "weight": 0.1,
+    "value": 15
+  },
+  {
+    "name": "Luminous Russula",
+    "id": "FExxx813",
+    "effects": [
+      "Lingering Damage Stamina",
+      "Lingering Damage Health",
+      "Waterbreathing",
+      "Fear"
+    ],
+    "weight": 0.2,
+    "value": 25
+  },
+  {
+    "name": "Lyretail Anthias",
+    "id": "xx0008F1",
+    "effects": [
+      "Restore Magicka",
+      "Fortify Alteration",
+      "Fortify Conjuration",
+      "Fortify Carry Weight"
+    ],
+    "weight": 0.25,
+    "value": 30
+  },
+  {
+    "name": "Marshmerrow",
+    "id": "FExxx814",
+    "effects": [
+      "Restore Health",
+      "Fortify Carry Weight",
+      "Weakness to Magic",
+      "Damage Stamina"
+    ],
+    "weight": 0.1,
+    "value": 18
+  },
+  {
+    "name": "Minotaur Horn",
+    "id": "FExxx815",
+    "effects": [
+      "Resist Poison",
+      "Damage Magicka Regen",
+      "Regenerate Health",
+      "Regenerate Magicka"
+    ],
+    "weight": 5,
+    "value": 55
+  },
+  {
+    "name": "Mort Flesh",
+    "id": "FExxx80C",
+    "effects": [
+      "Damage Health",
+      "Damage Magicka",
+      "Damage Magicka Regen",
+      "Frenzy"
+    ],
+    "weight": 0.5,
+    "value": 2
+  },
+  {
+    "name": "Bloodchill Nightshade",
+    "id": "xx042A61",
+    "effects": [
+      "Damage Health",
+      "Damage Magicka Regen",
+      "Lingering Damage Stamina",
+      "Fortify Destruction"
+    ],
+    "weight": 0.1,
+    "value": 8
+  },
+  {
+    "name": "Ogre's Teeth",
+    "id": "FExxx816",
+    "effects": [
+      "Weakness to Shock",
+      "Resist Poison",
+      "Lingering Damage Magicka",
+      "Regenerate Health"
+    ],
+    "weight": 3,
+    "value": 50
+  },
+  {
+    "name": "Pearlfish",
+    "id": "xx0008EC",
+    "effects": [
+      "Restore Stamina",
+      "Resist Frost",
+      "Fortify Smithing",
+      "Fortify One-handed"
+    ],
+    "weight": 0.25,
+    "value": 15
+  },
+  {
+    "name": "Purple Butterfly Wing",
+    "id": "xx059153",
+    "effects": [
+      "Regenerate Health",
+      "Regenerate Magicka",
+      "Regenerate Stamina",
+      "Paralysis"
+    ],
+    "weight": 0.1,
+    "value": 25
+  },
+  {
+    "name": "Pygmy Sunfish",
+    "id": "xx0008ED",
+    "effects": [
+      "Restore Stamina",
+      "Lingering Damage Magicka",
+      "Damage Magicka Regen",
+      "Fortify Restoration"
+    ],
+    "weight": 0.25,
+    "value": 2
+  },
+  {
+    "name": "Red Kelp Gas Bladder",
+    "id": "FExxx817",
+    "effects": [
+      "Regenerate Stamina",
+      "Waterbreathing",
+      "Cure Disease",
+      "Fortify Magicka"
+    ],
+    "weight": 0.1,
+    "value": 20
+  },
+  {
+    "name": "Redwort Flower",
+    "id": "FExxx818",
+    "effects": [
+      "Resist Frost",
+      "Cure Poison",
+      "Damage Health",
+      "Invisibility"
+    ],
+    "weight": 0.1,
+    "value": 25
+  },
+  {
+    "name": "Roobrush",
+    "id": "FExxx819",
+    "effects": [
+      "Weakness to Magic",
+      "Fortify Sneak",
+      "Lingering Damage Health",
+      "Cure Poison"
+    ],
+    "weight": 0.1,
+    "value": 20
+  },
+  {
+    "name": "Rot Scale",
+    "id": "0100306D",
+    "effects": [
+      "Slow",
+      "Lingering Damage Health",
+      "Fear",
+      "Paralysis"
+    ],
+    "weight": 0.1,
+    "value": 20
+  },
+  {
+    "name": "Saltrice",
+    "id": "FExxx81A",
+    "effects": [
+      "Restore Stamina",
+      "Fortify Magicka",
+      "Damage Stamina Regen",
+      "Restore Health"
+    ],
+    "weight": 0.1,
+    "value": 6
+  },
+  {
+    "name": "Scalon Fin",
+    "id": "FExxx81B",
+    "effects": [
+      "Waterbreathing",
+      "Damage Health",
+      "Lingering Damage Magicka",
+      "Damage Magicka Regen"
+    ],
+    "weight": 0.1,
+    "value": 25
+  },
+  {
+    "name": "Screaming Maw",
+    "id": "0100306E",
+    "effects": [
+      "Regenerate Magicka",
+      "Fortify Alteration",
+      "Invisibility",
+      "Regenerate Health"
+    ],
+    "weight": 0.1,
+    "value": 20
+  },
+  {
+    "name": "Scrib Jelly",
+    "id": "FExxx81C",
+    "effects": [
+      "Regenerate Magicka",
+      "Cure Poison",
+      "Cure Disease",
+      "Regenerate Stamina"
+    ],
+    "weight": 0.1,
+    "value": 20
+  },
+  {
+    "name": "Scrib Jerky",
+    "id": "FExxx81D",
+    "effects": [
+      "Restore Stamina",
+      "Fortify Stamina",
+      "Paralysis",
+      "Waterbreathing"
+    ],
+    "weight": 0.2,
+    "value": 15
+  },
+  {
+    "name": "Sload Soap",
+    "id": "FExxx81E",
+    "effects": [
+      "Resist Fire",
+      "Fear",
+      "Fortify Conjuration",
+      "Fortify Alteration"
+    ],
+    "weight": 0.1,
+    "value": 30
+  },
+  {
+    "name": "Spadefish",
+    "id": "xx0008F3",
+    "effects": [
+      "Restore Health",
+      "Fortify Lockpicking",
+      "Fortify Pickpocket",
+      "Cure Disease"
+    ],
+    "weight": 0.25,
+    "value": 15
+  },
+  {
+    "name": "Spiddal Stick",
+    "id": "xx024C15",
+    "effects": [
+      "Damage Health",
+      "Damage Magicka",
+      "Weakness to Fire",
+      "Restore Stamina"
+    ],
+    "weight": 0.1,
+    "value": 25
+  },
+  {
+    "name": "Steel-Blue Entoloma",
+    "id": "FExxx832",
+    "effects": [
+      "Restore Magicka",
+      "Fortify Destruction",
+      "Resist Frost",
+      "Fortify Carry Weight"
+    ],
+    "weight": 0.1,
+    "value": 2
+  },
+  {
+    "name": "Stoneflower Petals",
+    "id": "FExxx81F",
+    "effects": [
+      "Weakness to Shock",
+      "Fortify One-handed",
+      "Fortify Magicka",
+      "Fortify Enchanting"
+    ],
+    "weight": 0.1,
+    "value": 15
+  },
+  {
+    "name": "Thorn Hook",
+    "id": "0100306F",
+    "effects": [
+      "Lingering Damage Health",
+      "Paralysis",
+      "Regenerate Magicka",
+      "Regenerate Health"
+    ],
+    "weight": 0.1,
+    "value": 20
+  },
+  {
+    "name": "Void Essence",
+    "id": "FExxx820",
+    "effects": [
+      "Restore Health",
+      "Fortify Health",
+      "Fortify Stamina",
+      "Regenerate Health"
+    ],
+    "weight": 0.2,
+    "value": 60
+  },
+  {
+    "name": "Watcher's Eye",
+    "id": "FExxx821",
+    "effects": [
+      "Night Eye",
+      "Fortify Magicka",
+      "Fortify Illusion",
+      "Spell Absorption"
+    ],
+    "weight": 0.2,
+    "value": 9
+  },
+  {
+    "name": "Wild Grass Pod",
+    "id": "xx019D3A",
+    "effects": [
+      "Resist Poison",
+      "Ravage Magicka",
+      "Fortify Alteration",
+      "Restore Magicka"
+    ],
+    "weight": 0.1,
+    "value": 1
+  },
+  {
+    "name": "Wisp Stalk Caps",
+    "id": "FExxx823",
+    "effects": [
+      "Damage Health",
+      "Weakness to Poison",
+      "Frenzy",
+      "Regenerate Stamina"
+    ],
+    "weight": 0.1,
+    "value": 20
+  },
+  {
+    "name": "Withering Moon",
+    "id": "FExxx824",
+    "effects": [
+      "Restore Magicka",
+      "Spell Absorption",
+      "Fortify Light Armor",
+      "Cure Disease"
+    ],
+    "weight": 0.1,
+    "value": 5
+  },
+  {
+    "name": "Worm's Head Cap",
+    "id": "FExxx825",
+    "effects": [
+      "Fortify Lockpicking",
+      "Night Eye",
+      "Fortify Carry Weight",
+      "Slow"
+    ],
+    "weight": 0.2,
+    "value": 30
+  },
+  {
+    "name": "Ancestor Moth Wing",
+    "id": "xx0059ba",
+    "effects": [
+      "Damage Magicka",
+      "Fortify Conjuration",
+      "Damage Magicka Regen",
+      "Fortify Enchanting"
+    ],
+    "weight": 0.1,
+    "value": 2
+  },
+  {
+    "name": "Arctic Char",
+    "id": "xx0008f5",
+    "effects": [
+      "Restore Health",
+      "Resist Frost",
+      "Fortify Pickpocket",
+      "Regenerate Health"
+    ],
+    "weight": 0.25,
+    "value": 15
+  },
+  {
+    "name": "Arctic Grayling",
+    "id": "xx0008f7",
+    "effects": [
+      "Restore Health",
+      "Fortify Two-handed",
+      "Damage Magicka Regen",
+      "Resist Fire"
+    ],
+    "weight": 0.25,
+    "value": 15
+  },
+  {
+    "name": "Ash Creep Cluster",
+    "id": "xx01cd74",
+    "effects": [
+      "Damage Stamina",
+      "Invisibility",
+      "Resist Fire",
+      "Fortify Restoration"
+    ],
+    "weight": 0.25,
+    "value": 20
+  },
+  {
+    "name": "Ash Hopper Jelly",
+    "id": "xx01cd71",
+    "effects": [
+      "Restore Health",
+      "Fortify Light Armor",
+      "Resist Shock",
+      "Weakness to Frost"
+    ],
+    "weight": 0.25,
+    "value": 20
+  },
+  {
+    "name": "Ashen Grass Pod",
+    "id": "xx016e4e",
+    "effects": [
+      "Resist Fire",
+      "Weakness to Shock",
+      "Fortify Lockpicking",
+      "Fortify Sneak"
+    ],
+    "weight": 0.1,
+    "value": 1
+  },
+  {
+    "name": "Boar Tusk",
+    "id": "xx01cd6f",
+    "effects": [
+      "Fortify Stamina",
+      "Fortify Health",
+      "Fortify Block",
+      "Frenzy"
+    ],
+    "weight": 0.5,
+    "value": 20
+  },
+  {
+    "name": "Brook Trout",
+    "id": "xx0008f3",
+    "effects": [
+      "Restore Stamina",
+      "Damage Magicka Regen",
+      "Regenerate Health",
+      "Fortify Carry Weight"
+    ],
+    "weight": 0.25,
+    "value": 10
+  },
+  {
+    "name": "Burnt Spriggan Wood",
+    "id": "xx01cd6e",
+    "effects": [
+      "Weakness to Fire",
+      "Fortify Alteration",
+      "Damage Magicka Regen",
+      "Slow"
+    ],
+    "weight": 0.5,
+    "value": 20
+  },
+  {
+    "name": "Carp",
+    "id": "xx0008f6",
+    "effects": [
+      "Restore Stamina",
+      "Fortify Magicka",
+      "Damage Magicka Regen",
+      "Resist Fire"
+    ],
+    "weight": 0.25,
+    "value": 10
+  },
+  {
+    "name": "Catfish",
+    "id": "xx0008f9",
+    "effects": [
+      "Restore Stamina",
+      "Damage Magicka Regen",
+      "Resist Fire",
+      "Waterbreathing"
+    ],
+    "weight": 0.25,
+    "value": 10
+  },
+  {
+    "name": "Chaurus Hunter Antennae",
+    "id": "xx0183b0",
+    "effects": [
+      "Damage Magicka",
+      "Fortify Conjuration",
+      "Damage Magicka Regen",
+      "Fortify Enchanting"
+    ],
+    "weight": 0.1,
+    "value": 2
+  },
+  {
+    "name": "Cod",
+    "id": "xx0008fa",
+    "effects": [
+      "Restore Stamina",
+      "Fortify One-handed",
+      "Damage Magicka Regen",
+      "Resist Fire"
+    ],
+    "weight": 0.25,
+    "value": 10
+  },
+  {
+    "name": "Felsaad Tern Feathers",
+    "id": "xx03cd8e",
+    "effects": [
+      "Restore Health",
+      "Fortify Light Armor",
+      "Resist Magic",
+      "Regenerate Health"
+    ],
+    "weight": 0.1,
+    "value": 15
+  },
+  {
+    "name": "Gleamblossom",
+    "id": "xx011d0b",
+    "effects": [
+      "Resist Magic",
+      "Fear",
+      "Regenerate Health",
+      "Paralysis"
+    ],
+    "weight": 0.1,
+    "value": 5
+  },
+  {
+    "name": "Poison Bloom",
+    "id": "xx0185fb",
+    "effects": [
+      "Damage Health",
+      "Slow",
+      "Fortify Carry Weight",
+      "Fear"
+    ],
+    "weight": 0.25,
+    "value": 5
+  },
+  {
+    "name": "Salmon Roe",
+    "id": "xx003533",
+    "effects": [
+      "Restore Stamina",
+      "Waterbreathing",
+      "Regenerate Magicka",
+      "Fortify Magicka"
+    ],
+    "weight": 0.1,
+    "value": 5
+  },
+  {
+    "name": "Scathecraw",
+    "id": "xx017e97",
+    "effects": [
+      "Ravage Magicka",
+      "Ravage Health",
+      "Lingering Damage Stamina",
+      "Weakness to Fire"
+    ],
+    "weight": 0.1,
+    "value": 1
+  },
+  {
+    "name": "Spawn Ash",
+    "id": "xx01cd62",
+    "effects": [
+      "Ravage Stamina",
+      "Resist Fire",
+      "Fortify Enchanting",
+      "Ravage Magicka"
+    ],
+    "weight": 0.1,
+    "value": 20
+  },
+  {
+    "name": "Trama Root",
+    "id": "xx017e96",
+    "effects": [
+      "Weakness to Shock",
+      "Fortify Levitation",
+      "Damage Magicka",
+      "Restore Magicka"
+    ],
+    "weight": 0.2,
+    "value": 1
+  },
+  {
+    "name": "Tripod Spiderfish",
+    "id": "xx0008f4",
+    "effects": [
+      "Restore Stamina",
+      "Cure Poison",
+      "Fortify Lockpicking",
+      "Waterbreathing"
+    ],
+    "weight": 0.25,
+    "value": 15
+  },
+  {
+    "name": "Yellow Mountain Flower",
+    "id": "xx002a78",
+    "effects": [
+      "Resist Poison",
+      "Fortify Restoration",
+      "Fortify Health",
+      "Damage Stamina Regen"
+    ],
+    "weight": 0.1,
+    "value": 2
+  }
+]

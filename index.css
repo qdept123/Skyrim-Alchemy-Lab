@@ -1,0 +1,282 @@
+/* =========================================
+   SKYRIM ALCHEMY LAB - FULL STYLESHEET
+   ========================================= */
+
+:root {
+    --skyrim-gold: #c4a457;
+    --skyrim-iron: #2a2a2a;
+    --skyrim-parchment: #e2d1b3;
+    --skyrim-border: #4a4a4a;
+    --skyrim-poison: #8b0000;
+}
+
+body {
+    background-color: #121212;
+    background-image: radial-gradient(circle, #2c2c2c 0%, #000 100%);
+    color: var(--skyrim-parchment);
+    font-family: 'Segoe UI', serif;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+}
+
+.alchemy-container {
+    width: 100%;
+    max-width: 1000px;
+    border: 3px solid var(--skyrim-iron);
+    background: rgba(20, 20, 20, 0.9);
+    padding: 30px;
+    box-shadow: 0 0 50px rgba(0,0,0,0.8);
+}
+
+/* Header & Skill Controls */
+header {
+    text-align: center;
+    border-bottom: 2px solid var(--skyrim-gold);
+    margin-bottom: 30px;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+}
+
+header h1 {
+    margin: 0;
+    color: var(--skyrim-gold);
+    font-size: 2.5rem;
+    text-shadow: 2px 2px #000;
+}
+
+.skill-controls {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+    margin: 20px 0;
+    text-transform: none; /* Keep labels readable */
+    letter-spacing: normal;
+}
+
+.input-group {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.input-group label {
+    font-size: 0.8rem;
+    color: var(--skyrim-gold);
+    margin-bottom: 5px;
+    font-weight: bold;
+}
+
+.input-group input {
+    background: #000;
+    border: 1px solid var(--skyrim-gold);
+    color: white;
+    padding: 8px;
+    text-align: center;
+    width: 65px;
+    font-size: 1rem;
+    outline: none;
+}
+
+.perk-info {
+    font-size: 0.65rem;
+    color: #777;
+    margin-top: 4px;
+}
+
+.rank-display {
+    text-align: left;
+    border-left: 1px solid var(--skyrim-border);
+    padding-left: 20px;
+}
+
+#levelRank {
+    font-size: 1.2rem;
+    font-style: italic;
+    color: var(--skyrim-gold);
+    margin: 0;
+}
+
+#multiplierBonus {
+    font-size: 0.8rem;
+    color: #fff;
+    opacity: 0.8;
+}
+
+/* Lab Interface Layout */
+.lab-interface {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 30px;
+}
+
+/* Ingredient List Styling */
+.ingredient-selector {
+    background: rgba(255, 255, 255, 0.05);
+    border: 1px solid var(--skyrim-border);
+    height: 500px;
+    display: flex;
+    flex-direction: column;
+}
+
+.search-bar input {
+    width: 100%;
+    padding: 12px;
+    background: #000;
+    border: none;
+    border-bottom: 1px solid var(--skyrim-gold);
+    color: white;
+    box-sizing: border-box;
+}
+
+.ingredient-grid {
+    overflow-y: auto;
+    padding: 10px;
+    flex-grow: 1;
+}
+
+.ingredient-card {
+    display: flex;
+    align-items: center;
+    padding: 10px;
+    margin-bottom: 5px;
+    background: rgba(255,255,255,0.05);
+    cursor: pointer;
+    transition: 0.2s;
+    border-left: 3px solid transparent;
+}
+
+.ingredient-card:hover {
+    background: rgba(196, 164, 87, 0.2);
+    border-left: 3px solid var(--skyrim-gold);
+}
+
+.ingredient-card.disabled {
+    opacity: 0.3;
+    filter: grayscale(1);
+    cursor: not-allowed;
+}
+
+/* Brewing Table & Slots */
+.brewing-table {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.slots {
+    display: flex;
+    gap: 15px;
+    margin-bottom: 30px;
+}
+
+.slot {
+    width: 85px;
+    height: 85px;
+    border: 2px dashed var(--skyrim-gold);
+    display: flex;
+    flex-direction: column; 
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    background: rgba(0,0,0,0.3);
+    padding: 5px;
+    overflow: hidden;
+    box-sizing: border-box;
+    cursor: default;
+}
+
+.slot.filled {
+    border-style: solid;
+    cursor: pointer;
+}
+
+.slot::after {
+    content: attr(data-placeholder);
+    font-size: 0.65rem;
+    color: #666;
+    text-align: center;
+    display: block;
+}
+
+.slot.filled::after {
+    display: none;
+}
+
+.selected-item p {
+    margin: 0;
+    font-size: 0.65rem;
+    color: var(--skyrim-gold);
+    line-height: 1.1;
+    word-wrap: break-word;
+}
+
+/* Potion Result Display */
+.potion-display {
+    text-align: center;
+    padding: 20px;
+    width: 85%;
+    min-height: 180px;
+    border-radius: 4px;
+    position: relative;
+    transition: all 0.4s ease;
+}
+
+/* Helpful Potion Theme (Parchment) */
+.potion-display.is-potion {
+    background: var(--skyrim-parchment);
+    color: #2b261d;
+    box-shadow: inset 0 0 15px rgba(0,0,0,0.2);
+    border: 1px solid #8a7342;
+}
+
+/* Harmful Poison Theme (Dark/Red) */
+.potion-display.is-poison {
+    background: #1a0a0a;
+    color: #ffb3b3;
+    border: 2px solid var(--skyrim-poison);
+    box-shadow: 0 0 15px rgba(139, 0, 0, 0.4);
+}
+
+.potion-icon {
+    font-size: 3rem;
+    margin-bottom: 10px;
+}
+
+#effectsList {
+    list-style: none;
+    padding: 0;
+    font-size: 0.9rem;
+}
+
+#effectsList hr {
+    border: 0;
+    border-top: 1px solid rgba(0,0,0,0.1);
+    margin: 10px 0;
+}
+
+/* Buttons */
+.skyrim-btn {
+    margin-top: 20px;
+    padding: 10px 25px;
+    background: var(--skyrim-iron);
+    color: var(--skyrim-gold);
+    border: 1px solid var(--skyrim-gold);
+    cursor: pointer;
+    text-transform: uppercase;
+    font-weight: bold;
+    transition: 0.3s;
+}
+
+.skyrim-btn:hover {
+    background: var(--skyrim-gold);
+    color: var(--skyrim-iron);
+}
+
+/* Scrollbar Styling */
+::-webkit-scrollbar { width: 8px; }
+::-webkit-scrollbar-track { background: #1a1a1a; }
+::-webkit-scrollbar-thumb { background: var(--skyrim-gold); }

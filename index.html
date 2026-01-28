@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Skyrim Alchemy Lab</title>
+    <link rel="stylesheet" href="index.css">
+</head>
+<body>
+
+    <div class="alchemy-container">
+        <header>
+            <h1>Alchemy Lab</h1>
+            
+            <div class="skill-controls">
+                <div class="input-group">
+                    <label for="alchemyLevel">Alchemy Level</label>
+                    <input type="number" id="alchemyLevel" value="15" min="1" max="100">
+                    <span class="perk-info">Range: 1-100</span>
+                </div>
+                
+                <div class="input-group">
+                    <label for="perkLevel">Alchemist Perk</label>
+                    <input type="number" id="perkLevel" value="0" min="0" max="5">
+                    <span class="perk-info">0-5 Ranks</span>
+                </div>
+
+                <div class="rank-display">
+                    <p id="levelRank">Novice</p>
+                    <span id="multiplierBonus">1.00x Power</span>
+                </div>
+            </div>
+        </header>
+
+        <main class="lab-interface">
+            <section class="ingredient-selector">
+                <div class="search-bar">
+                    <input type="text" id="ingredientSearch" placeholder="Search ingredients...">
+                </div>
+                <div class="ingredient-grid" id="ingredientGrid"></div>
+            </section>
+
+            <section class="brewing-table">
+                <div class="slots">
+                    <div class="slot" id="slot1" data-placeholder="Ingredient 1"></div>
+                    <div class="slot" id="slot2" data-placeholder="Ingredient 2"></div>
+                    <div class="slot" id="slot3" data-placeholder="Ingredient 3"></div>
+                </div>
+
+                <div class="potion-display" id="potionDisplayBox">
+                    <div class="potion-icon" id="potionResult">🧪</div>
+                    <h2 id="potionName">Unknown Potion</h2>
+                    <ul id="effectsList">
+                        <li>Select ingredients to see effects...</li>
+                    </ul>
+                </div>
+
+                <button id="clearBtn" class="skyrim-btn">Clear Table</button>
+            </section>
+        </main>
+    </div>
+    <script src="index.js"></script>
+</body>
+</html>
