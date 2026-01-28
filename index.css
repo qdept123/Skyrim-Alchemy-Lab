@@ -28,6 +28,7 @@ body {
     background: rgba(20, 20, 20, 0.9);
     padding: 30px;
     box-shadow: 0 0 50px rgba(0,0,0,0.8);
+    box-sizing: border-box; /* Ensures padding doesn't break width */
 }
 
 /* Header & Skill Controls */
@@ -52,8 +53,9 @@ header h1 {
     align-items: center;
     gap: 30px;
     margin: 20px 0;
-    text-transform: none; /* Keep labels readable */
+    text-transform: none;
     letter-spacing: normal;
+    flex-wrap: wrap; /* Allows stacking on small screens */
 }
 
 .input-group {
@@ -223,9 +225,9 @@ header h1 {
     border-radius: 4px;
     position: relative;
     transition: all 0.4s ease;
+    box-sizing: border-box;
 }
 
-/* Helpful Potion Theme (Parchment) */
 .potion-display.is-potion {
     background: var(--skyrim-parchment);
     color: #2b261d;
@@ -233,7 +235,6 @@ header h1 {
     border: 1px solid #8a7342;
 }
 
-/* Harmful Poison Theme (Dark/Red) */
 .potion-display.is-poison {
     background: #1a0a0a;
     color: #ffb3b3;
@@ -258,7 +259,6 @@ header h1 {
     margin: 10px 0;
 }
 
-/* Buttons */
 .skyrim-btn {
     margin-top: 20px;
     padding: 10px 25px;
@@ -274,6 +274,78 @@ header h1 {
 .skyrim-btn:hover {
     background: var(--skyrim-gold);
     color: var(--skyrim-iron);
+}
+
+/* =========================================
+   MOBILE RESPONSIVENESS (Media Queries)
+   ========================================= */
+
+@media (max-width: 850px) {
+    body {
+        padding: 10px;
+    }
+
+    .alchemy-container {
+        padding: 15px;
+    }
+
+    header h1 {
+        font-size: 1.8rem;
+    }
+
+    .rank-display {
+        border-left: none;
+        border-top: 1px solid var(--skyrim-border);
+        padding-left: 0;
+        padding-top: 10px;
+        text-align: center;
+        width: 100%;
+    }
+
+    .lab-interface {
+        grid-template-columns: 1fr; /* Stacks selection and brewing */
+        gap: 20px;
+    }
+
+    /* Sticky Brewing Table for Mobile */
+    .brewing-table {
+        order: -1; /* Moves brewing table to the top */
+        position: sticky;
+        top: 0;
+        z-index: 10;
+        background: #121212;
+        padding: 15px 0;
+        border-bottom: 2px solid var(--skyrim-iron);
+    }
+
+    .slots {
+        margin-bottom: 15px;
+    }
+
+    .slot {
+        width: 70px;
+        height: 70px;
+    }
+
+    .potion-display {
+        width: 100%;
+        min-height: 140px;
+    }
+
+    .ingredient-selector {
+        height: 400px; /* Reduced height to fit phone screens better */
+    }
+}
+
+@media (max-width: 480px) {
+    .skill-controls {
+        gap: 15px;
+    }
+    
+    .slot {
+        width: 60px;
+        height: 60px;
+    }
 }
 
 /* Scrollbar Styling */
